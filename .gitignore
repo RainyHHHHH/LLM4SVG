@@ -199,3 +199,11 @@ lightning_logs/*
 /data_process/*
 _RecordBook.md
 _CodeChanges.md
+dataset/
+dataset/*
+SVGX-dataset/
+LLaMA-Factory/data/
+LLaMA-Factory/output/
+SVGX-dataset/
+
+SVGX-dataset/

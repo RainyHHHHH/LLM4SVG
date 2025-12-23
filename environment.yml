@@ -28,9 +28,9 @@ dependencies:
       - modelscope
       - einops
       - safetensors
-      - hydra
+      - hydra-core
       - omegaconf
       - lxml
       - tensorboard
       - cairosvg
-      - unsloth
+      # - unsloth
